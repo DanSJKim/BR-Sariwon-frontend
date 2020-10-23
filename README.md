@@ -29,8 +29,5 @@
 - 베스킨라빈스 매장 클릭 시 매장 상세 정보 팝업창 구현.
 - React Router를 이용한 페이지 별 히스토리 관리.
 
-## 데모영상
-[BR-Sariwon](https://www.youtube.com/watch?v=U8hu7C2NRjE&feature=youtu.be)
-
 ## Reference
 [Back-End repo address](https://github.com/wecode-bootcamp-korea/BR-Sariwon-backend)
